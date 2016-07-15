@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/study-guide",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "KNOWLEDGE ONCE LEARNT CANNOT BE UNLEARNT"
+}
